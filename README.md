@@ -1,3 +1,3 @@
 # Arduino
 
-All of my Arduino code and schematics will be here. 😊
+All of my Arduino code and schematics for learning will be here. 😊
